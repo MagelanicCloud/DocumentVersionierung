@@ -1,3 +1,7 @@
+This Project was created only for education. 
+If you use it, just do it. ;) It's under GPL v3 license. 
+We assume no liability for the project.        
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
